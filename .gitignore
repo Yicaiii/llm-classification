@@ -1,0 +1,31 @@
+# ======================
+# Kaggle raw data (DO NOT COMMIT)
+# ======================
+data/raw/
+data/raw/*
+data/raw/*.csv
+data/processed/
+
+# ======================
+# Outputs / artifacts
+# ======================
+outputs/
+outputs/*
+results/
+logs/
+
+# ======================
+# Python / Jupyter
+# ======================
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ======================
+# OS
+# ======================
+.DS_Store
+Thumbs.db
+
+
+
